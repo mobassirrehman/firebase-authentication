@@ -1,0 +1,6 @@
+1. Create React + Vite project
+2. Create Firebase project
+3. Register Web App in Firebase (copy config)
+4. Install Firebase SDK
+5. Enable Google Sign-in (Authentication → Sign-in method)
+6. Initialize Firebase & Auth in your project
